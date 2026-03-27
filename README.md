@@ -20,7 +20,7 @@ I'm a fullstack engineer with **5+ years of experience** shipping production sys
 At **MSDA** I own the architecture of multiple government production platforms, including a live social transfers service at **apps.gov.ge**, and lead a frontend team that maintains a shared Angular UI library across 10+ internal projects. I've also built products in **fintech** (crypto wallets with the Tether/USDT team), **e-commerce** (AI-powered mobile apps on Google Play), and **events management** (dynamic platforms with artist profiles and admin panels).
 
 - 🏢 Currently: **Fullstack Engineer @ MSDA** (2023 – present)
-- 🏛️ Building live government services at **apps.gov.ge** and **ms.gov.ge**
+- 🏛️ Building live government services on Georgia's national digital infrastructure
 - 📍 Based in: **Tbilisi, Georgia**
 - 🤖 Interested in: AI integrations, real-time systems, scalable frontend architecture
 
@@ -68,17 +68,17 @@ At **MSDA** I own the architecture of multiple government production platforms, 
 
 ## 🚀 Featured Projects
 
-### 🏛️ [Social Transfers Web App — MSDA](https://apps.gov.ge/social-transfers)
+### 🏛️ Social Transfers Web App — MSDA
 
-> Live government service · apps.gov.ge/social-transfers
+> Live government service — deployed on Georgia's national digital infrastructure
 
-An Angular application that enables Georgian citizens to manage and track social transfer payments online. Built and maintained as part of Georgia's public digital services infrastructure.
+An Angular application that enables Georgian citizens to manage and track social transfer payments online. Built and maintained as part of Georgia's public digital services infrastructure. *(Access is restricted to authenticated citizens.)*
 
 **Tech:** Angular · TypeScript · Docker · GitLab CI/CD · Kubernetes
 
-- 🌍 Live in production at **apps.gov.ge**
 - 🐳 Containerized with Docker, deployed on Kubernetes with multiple environment pipelines (staging / training / main)
 - ⚙️ GitLab CI/CD with automated builds and deployments
+- 🔒 Authentication-protected government service
 
 ---
 
@@ -97,9 +97,9 @@ A fully functional AI-powered mobile e-commerce MVP published on **Google Play**
 
 ---
 
-### 🗺️ [MSMap — GIS Mapping Platform (MSDA)](https://ms.gov.ge/msmap/)
+### 🗺️ MSMap — GIS Mapping Platform (MSDA)
 
-> Live government GIS platform · ms.gov.ge/msmap
+> Live government GIS platform — municipal infrastructure data across Georgia
 
 An interactive map serving live municipal infrastructure data across Georgia. Built with Angular on the frontend and integrated with GeoServer and Spring Cloud microservices on the backend.
 
@@ -176,6 +176,6 @@ AI-powered outfit recommendations based on current weather. Full-stack TypeScrip
 📬 **Open to interesting projects and collaborations**
 
 [![Email](https://img.shields.io/badge/beka.jorjikia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beka.jorjikia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beka-jorjikia)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a6257-1517a6257/)
 
 </div>
