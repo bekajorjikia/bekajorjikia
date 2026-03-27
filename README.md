@@ -15,13 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a fullstack engineer with **5 years of experience** shipping production systems. I work across the full stack — from designing Angular component libraries and React Native mobile apps, to building Django/NestJS APIs and integrating real-time services.
+I'm a fullstack engineer with **5+ years of experience** shipping production systems. I work across the full stack — Angular component libraries and React Native mobile apps on the frontend, to Django/NestJS APIs, real-time services, CI/CD pipelines, and AI integrations on the backend.
 
-At **MSDA** (Georgia's Municipal Service Delivery Agency), I own the architecture of multiple production platforms including a GIS mapping system serving infrastructure data nationwide. I also lead a frontend team, run code reviews, and maintain a shared Angular UI library used across 10+ internal projects.
-
-I've shipped products in **fintech** (crypto wallet apps with Tether/USDT team), **e-commerce** (AI-powered mobile apps on Google Play), and **public services** (GIS, real-time chat, document systems).
+At **MSDA** I own the architecture of multiple government production platforms, including a live social transfers service at **apps.gov.ge**, and lead a frontend team that maintains a shared Angular UI library across 10+ internal projects. I've also built products in **fintech** (crypto wallets with the Tether/USDT team), **e-commerce** (AI-powered mobile apps on Google Play), and **events management** (dynamic platforms with artist profiles and admin panels).
 
 - 🏢 Currently: **Fullstack Engineer @ MSDA** (2023 – present)
+- 🏛️ Building live government services at **apps.gov.ge** and **ms.gov.ge**
 - 📍 Based in: **Tbilisi, Georgia**
 - 🤖 Interested in: AI integrations, real-time systems, scalable frontend architecture
 
@@ -52,50 +51,79 @@ I've shipped products in **fintech** (crypto wallet apps with Tether/USDT team),
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI & Integrations**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-4285F4?style=flat-square&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
+
+### 🏛️ [Social Transfers Web App — MSDA](https://apps.gov.ge/social-transfers)
+
+> Live government service · apps.gov.ge/social-transfers
+
+An Angular application that enables Georgian citizens to manage and track social transfer payments online. Built and maintained as part of Georgia's public digital services infrastructure.
+
+**Tech:** Angular · TypeScript · Docker · GitLab CI/CD · Kubernetes
+
+- 🌍 Live in production at **apps.gov.ge**
+- 🐳 Containerized with Docker, deployed on Kubernetes with multiple environment pipelines (staging / training / main)
+- ⚙️ GitLab CI/CD with automated builds and deployments
+
+---
 
 ### 📱 [KrossGeorgia — AI Auto-Service App](https://play.google.com/store/apps/details?id=com.krossgeorgia)
 
 > Book an engine oil change to your home in under 2 minutes — guided by an AI chatbot
 
-An AI-powered mobile e-commerce application published on **Google Play**. The app asks users a few questions about their car and instantly recommends the right products and books a technician to come to their home.
+A fully functional AI-powered mobile e-commerce MVP published on **Google Play**. The app guides users through a short AI conversation to identify the right products, then books a technician for an on-site service. The technical implementation is complete; the commercial rollout is on hold pending a business partnership resolution.
 
-**Tech:** React Native · Expo · Django REST Framework · Django Channels (WebSockets) · OpenAI API · JWT Auth · Context API · Axios
+**Tech:** React Native · Expo · Django REST Framework · Django Channels (WebSockets) · OpenAI API · JWT · Context API · Axios
 
-- 🤖 AI chatbot built on OpenAI API for personalized engine oil recommendations
-- 📦 Full e-commerce flow: authentication, product catalog, shopping cart, order management
+- 🤖 AI chatbot (OpenAI API) for personalized engine oil recommendations
+- 📦 Full e-commerce flow: auth, product catalog, cart, order management
 - 🔄 Real-time updates via WebSockets
 - 📍 Car mileage tracking for predictive oil change reminders
 
 ---
 
-### 🗺️ MSDA GIS Mapping Platform *(production — internal)*
+### 🗺️ [MSMap — GIS Mapping Platform (MSDA)](https://ms.gov.ge/msmap/)
 
-> Municipal infrastructure mapping for Georgian public services
+> Live government GIS platform · ms.gov.ge/msmap
 
-A production GIS platform serving live infrastructure data across Georgia. Built with Angular on the frontend and integrated with GeoServer/Spring Cloud microservices on the backend.
+An interactive map serving live municipal infrastructure data across Georgia. Built with Angular on the frontend and integrated with GeoServer and Spring Cloud microservices on the backend.
 
-**Tech:** Angular · GeoServer · Spring Cloud · Microservices · Shared UI Component Library
+**Tech:** Angular · GeoServer · Spring Cloud · TypeScript · Microservices
 
-- 🏛️ Serves real municipal data for Georgia-wide infrastructure management
-- 🧩 Angular UI component library adopted across **10+ internal projects**
-- 🔧 Microservices architecture with custom gateway and file-serving services
+---
+
+### 🧩 MSDA Angular UI Library *(ms-maps-ui-libs)*
+
+> Shared component library for Georgia's public services
+
+An Angular component library maintained across **10+ government production applications**. Built for consistency, accessibility, and performance at scale.
+
+**Tech:** Angular · TypeScript · RxJS
+
+---
+
+### 🎵 TDE Agency & Freelance Projects *(2021–2022)*
+
+> Client web development — events platforms, Django backends
+
+Built full-stack web applications for clients, including TDE Agency (tdeagency.com) — a dynamic events management platform with artist profiles, event scheduling, and an admin panel. Collaborated with frontend developer Levan Iakobidze on the TypeScript client.
+
+**Tech:** Django · Python · TypeScript · REST API · Admin panel
 
 ---
 
@@ -103,27 +131,19 @@ A production GIS platform serving live infrastructure data across Georgia. Built
 
 > Peer-to-peer encrypted chat with a custom signaling server
 
-A WebRTC-based P2P chat application with a custom signaling server. Built to explore real-time communication at the infrastructure level.
-
-**Tech:** TypeScript · WebRTC · Node.js Signaling Server
-
----
-
-### 💱 [Currency Converter](https://github.com/bekajorjikia/currency-converter)
-
-Live currency conversion tool built with TypeScript.
-
----
-
-### 🌦️ [Weather × AI Outfit Advisor](https://github.com/bekajorjikia/Weather-Clothing--Front)
-
-AI-powered application that recommends clothing based on current weather. Full-stack: TypeScript frontend + TypeScript backend with weather API integration.
+**Tech:** TypeScript · WebRTC · Node.js signaling server
 
 ---
 
 ### 📁 [P2P File Transfer](https://github.com/bekajorjikia/p2p-file-transfer)
 
-Browser-based peer-to-peer file transfer using WebRTC data channels — no server storage required.
+Browser-based peer-to-peer file transfer via WebRTC data channels — no server storage required.
+
+---
+
+### 🌦️ [Weather × AI Outfit Advisor](https://github.com/bekajorjikia/Weather-Clothing--Front)
+
+AI-powered outfit recommendations based on current weather. Full-stack TypeScript.
 
 ---
 
@@ -147,6 +167,7 @@ Browser-based peer-to-peer file transfer using WebRTC data channels — no serve
 | 2025 | Frontend Engineer | Noxtton (Tether/USDT team) |
 | 2024 – 2025 | Fullstack Engineer | KROSS Georgia |
 | 2023 | Fullstack Engineer | Bnollar |
+| 2021 – 2022 | Freelance Web Developer | Self-employed (incl. TDE Agency) |
 
 ---
 
