@@ -176,6 +176,6 @@ AI-powered outfit recommendations based on current weather. Full-stack TypeScrip
 📬 **Open to interesting projects and collaborations**
 
 [![Email](https://img.shields.io/badge/beka.jorjikia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beka.jorjikia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a6257-1517a6257/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a625/)
 
 </div>
