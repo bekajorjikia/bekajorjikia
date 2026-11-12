@@ -2,12 +2,15 @@
 
 # Hi, I'm Beka 👋
 
-### Fullstack Engineer · Georgia 🇬🇪
+### Senior Full-Stack Engineer · TypeScript · Angular · NestJS · Next.js
 
-*Building production web & mobile applications across public services, fintech, and e-commerce*
+*Building national-scale government systems in Tbilisi and shipping my own product, [Fixon](https://fixon.ge), end to end*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a6257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beka.jorjikia@gmail.com)
+[![Fixon](https://img.shields.io/badge/fixon.ge-live-111111?style=for-the-badge)](https://fixon.ge)
+
+📍 Tbilisi, Georgia (GMT+4) · 🌍 Open to remote and relocation
 
 </div>
 
@@ -15,135 +18,129 @@
 
 ## 🧑‍💻 About Me
 
-I'm a fullstack engineer with **5+ years of experience** shipping production systems. I work across the full stack — Angular component libraries and React Native mobile apps on the frontend, to Django/NestJS APIs, real-time services, CI/CD pipelines, and AI integrations on the backend.
+Full-stack TypeScript engineer with **5 years of commercial experience**, the last three on **national-scale government systems** at MSDA (Tbilisi City Hall):
 
-At **MSDA** I own the architecture of multiple government production platforms, including a live social transfers service at **apps.gov.ge**, and lead a frontend team that maintains a shared Angular UI library across 10+ internal projects. I've also built products in **fintech** (crypto wallets with the Tether/USDT team), **e-commerce** (AI-powered mobile apps on Google Play), and **events management** (dynamic platforms with artist profiles and admin panels).
+- **MSMap** ([maps.tbilisi.gov.ge](https://maps.tbilisi.gov.ge)): the city's GIS platform, handling **~13M requests a day** and **48K monthly active users**
+- **Social Transfers**: a social-benefits platform integrated with **6+ government and financial systems**
 
-- 🏢 Currently: **Fullstack Engineer @ MSDA** (2023 – present)
-- 🏛️ Building live government services on Georgia's national digital infrastructure
-- 📍 Based in: **Tbilisi, Georgia**
-- 🤖 Interested in: AI integrations, real-time systems, scalable frontend architecture
+I also co-founded **[Fixon](https://fixon.ge)**, an on-demand car-service product that I designed, built and run in production.
+
+> 🔒 Most of my professional work lives in a private, VPN-only GitLab, which is why the contribution graph looks quiet. The case studies below describe that work without exposing code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx_Signals-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
-**DevOps & Infra**
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**DevOps, Observability & Testing**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
-**AI & Integrations**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏛️ Social Transfers Web App — MSDA
-
-> Live government service — deployed on Georgia's national digital infrastructure
-
-An Angular application that enables Georgian citizens to manage and track social transfer payments online. Built and maintained as part of Georgia's public digital services infrastructure. *(Access is restricted to authenticated citizens.)*
-
-**Tech:** Angular · TypeScript · Docker · GitLab CI/CD · Kubernetes
-
-- 🐳 Containerized with Docker, deployed on Kubernetes with multiple environment pipelines (staging / training / main)
-- ⚙️ GitLab CI/CD with automated builds and deployments
-- 🔒 Authentication-protected government service
+**Architecture:** event-driven workflows · transactional outbox · cache-aside · retry · circuit breaker
 
 ---
 
-### 📱 [KrossGeorgia — AI Auto-Service App](https://play.google.com/store/apps/details?id=com.krossgeorgia)
+## 🚀 Featured Work
 
-> Book an engine oil change to your home in under 2 minutes — guided by an AI chatbot
+### 🔧 [Fixon](https://fixon.ge): Co-Founder & Founding Engineer *(Mar 2026 – present · live in production)*
 
-A fully functional AI-powered mobile e-commerce MVP published on **Google Play**. The app guides users through a short AI conversation to identify the right products, then books a technician for an on-site service. The technical implementation is complete; the commercial rollout is on hold pending a business partnership resolution.
+> On-demand oil-change service in Tbilisi with real orders and card payments
 
-**Tech:** React Native · Expo · Django REST Framework · Django Channels (WebSockets) · OpenAI API · JWT · Context API · Axios
+I designed, built and run the entire technical product end to end, from product design and architecture to production operations.
 
-- 🤖 AI chatbot (OpenAI API) for personalized engine oil recommendations
-- 📦 Full e-commerce flow: auth, product catalog, cart, order management
-- 🔄 Real-time updates via WebSockets
-- 📍 Car mileage tracking for predictive oil change reminders
+**Tech:** Next.js (App Router) · TypeScript · PostgreSQL / Prisma · Zod · Vitest · Vercel · Sentry · Ably
 
----
-
-### 🗺️ MSMap — GIS Mapping Platform (MSDA)
-
-> Live government GIS platform — municipal infrastructure data across Georgia
-
-An interactive map serving live municipal infrastructure data across Georgia. Built with Angular on the frontend and integrated with GeoServer and Spring Cloud microservices on the backend.
-
-**Tech:** Angular · GeoServer · Spring Cloud · TypeScript · Microservices
+- 💳 **Bank of Georgia card payments:** callback handling, reconciliation polling and abandoned-checkout recovery (retry or cash fallback), on a transactional outbox with race-free order completion
+- 🚗 **Vehicle and oil fitment engine:** VIN decoding, photo capture, ambiguous-match recovery and engine-code rules that return the exact oil viscosity and volume for each vehicle
+- 📍 **Real-time courier GPS tracking** (Ably); OTP auth, admin actions and public routes hardened with rate limiting
+- 📈 **Sentry** error and cron-heartbeat monitoring
 
 ---
 
-### 🧩 MSDA Angular UI Library *(ms-maps-ui-libs)*
+### 🏛️ Social Transfers: MSDA *(private GitLab)*
 
-> Shared component library for Georgia's public services
+> B2G platform covering the full social-benefit cycle: beneficiary identification, eligibility checks, payment statements, bank disbursement and document workflow
 
-An Angular component library maintained across **10+ government production applications**. Built for consistency, accessibility, and performance at scale.
+This is the pre-production successor to a system already in use, built by a team of six. It integrates **6 government and financial systems** (civil registry, social service agency, Ministry of Health, bank, document flow and HR) and runs on event-driven processing with **10+ Kafka and RabbitMQ consumers**.
 
-**Tech:** Angular · TypeScript · RxJS
+**Tech:** Angular 19 · NestJS · MongoDB · GraphQL · Kafka · RabbitMQ · Redis · Kubernetes · GitLab CI/CD
 
----
-
-### 🎵 TDE Agency & Freelance Projects *(2021–2022)*
-
-> Client web development — events platforms, Django backends
-
-Built full-stack web applications for clients, including TDE Agency (tdeagency.com) — a dynamic events management platform with artist profiles, event scheduling, and an admin panel. Collaborated with frontend developer Levan Iakobidze on the TypeScript client.
-
-**Tech:** Django · Python · TypeScript · REST API · Admin panel
+- 👥 **Lead contributor** to the Angular admin console for program operators; I review and merge most of the team's frontend changes (**138 merge requests in 2026**)
+- 🔁 **Payroll and register workflow:** a multi-step wizard on a draft/upgrade state machine, with stale-lock detection and watchdog recovery for long-running jobs
+- 📤 **Async XLSX export pipeline** that I designed and built alone: Kafka workers, cursor-based streaming, crash recovery, cleanup of old files and real-time progress over WebSockets, sized for datasets of **~1M records**
+- 🩹 Removed two failure modes on large exports, self-cancelling jobs and jobs stuck at 99%, using a finalize timeout, a separate finalizing phase and automatic cleanup of stuck jobs
+- 🩺 Co-built a dedicated microservice that verifies disability status against the Ministry of Health registry
 
 ---
 
-### 💬 [MSDA Real-Time Chat (WebRTC)](https://github.com/bekajorjikia/msda-chat)
+### 🗺️ MSMap: [maps.tbilisi.gov.ge](https://maps.tbilisi.gov.ge) *(MSDA)*
 
-> Peer-to-peer encrypted chat with a custom signaling server
+> Tbilisi's municipal GIS platform: **~13M requests a day** and **48K monthly active users** across municipal services, architects and the public
 
-**Tech:** TypeScript · WebRTC · Node.js signaling server
+I develop and maintain the frontend of the map application, and I maintain the **shared Angular UI component library** used by **10+ internal production apps**.
 
----
-
-### 📁 [P2P File Transfer](https://github.com/bekajorjikia/p2p-file-transfer)
-
-Browser-based peer-to-peer file transfer via WebRTC data channels — no server storage required.
+**Tech:** Angular · TypeScript · OpenLayers · GeoServer · microservices
 
 ---
 
-### 🌦️ [Weather × AI Outfit Advisor](https://github.com/bekajorjikia/Weather-Clothing--Front)
+## 🧪 Open Source & Side Projects
 
-AI-powered outfit recommendations based on current weather. Full-stack TypeScript.
+| Project | What it is | Stack |
+|---|---|---|
+| [**miora**](https://github.com/bekajorjikia/miora) · [live](https://miora-eight.vercel.app) | QR digital menu for restaurants: bilingual EN/KA menu and staff admin panel, with tag-based cache invalidation | Next.js · Supabase · Tailwind · Vitest |
+| [**currency-converter**](https://github.com/bekajorjikia/currency-converter) | Currency conversion API with Redis cache-aside, retry with backoff, circuit breaker and stale-cache fallback | NestJS · Redis · Docker · Swagger |
+| [**ms-maps-ui-libs**](https://github.com/bekajorjikia/ms-maps-ui-libs) | Angular components for OpenLayers maps with WKT geometry support, published on npm | Angular 20 · OpenLayers |
+| [**p2p-file-transfer**](https://github.com/bekajorjikia/p2p-file-transfer) | Serverless peer-to-peer file transfer with one-click AI summaries of received files | Pear Runtime · JavaScript · OpenAI |
+| [**WebRTC Messenger**](https://github.com/bekajorjikia/msda-chat) | Real-time chat and video calls with a custom signaling server | Angular · WebRTC · Node.js |
+| [**Weather × AI Outfit Advisor**](https://github.com/bekajorjikia/Weather-Clothing--Front) | AI outfit recommendations based on current weather | TypeScript · OpenAI |
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Sep 2023 – Present | Full-Stack Engineer | **MSDA** (Municipal Services Development Agency, Tbilisi City Hall) |
+| Mar 2026 – Present | Co-Founder & Founding Engineer | **[Fixon](https://fixon.ge)** |
+| May 2025 – Sep 2025 | Frontend Engineer (React Native) | **Noxtton** (Rumble Wallet, Rumble Inc.) |
+| May 2023 – Dec 2023 | Full-Stack Engineer | **Bnollar** (blockchain / fintech) |
+| Jul 2022 – Feb 2023 | Full-Stack Engineer | **Kross Georgia** (first version of the oil-change app that later evolved into Fixon) |
+| Feb 2021 – Jan 2022 | Freelance Web Developer | Small-business clients |
 
 ---
 
@@ -153,29 +150,15 @@ AI-powered outfit recommendations based on current weather. Full-stack TypeScrip
 
 ![Beka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekajorjikia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekajorjikia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 </div>
-
----
-
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 2023 – Present | Fullstack Engineer | MSDA |
-| 2025 | Frontend Engineer | Noxtton (Tether/USDT team) |
-| 2024 – 2025 | Fullstack Engineer | KROSS Georgia |
-| 2023 | Fullstack Engineer | Bnollar |
-| 2021 – 2022 | Freelance Web Developer | Self-employed (incl. TDE Agency) |
 
 ---
 
 <div align="center">
 
-📬 **Open to interesting projects and collaborations**
+📬 **Open to remote roles, relocation and interesting collaborations**
 
 [![Email](https://img.shields.io/badge/beka.jorjikia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beka.jorjikia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a625/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beka-jorjikia-1517a6257/)
 
 </div>
