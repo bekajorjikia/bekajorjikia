@@ -144,16 +144,6 @@ I develop and maintain the frontend of the map application, and I maintain the *
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Beka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekajorjikia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 <div align="center">
 
 📬 **Open to remote roles, relocation and interesting collaborations**
